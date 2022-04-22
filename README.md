@@ -1,4 +1,5 @@
-### Hi there 👋
+<h1 alingn=center> Hello there!</h1>
+  <p>I'm a programer
 
 <!--
 **CosmicSamu/Cosmicsamu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
